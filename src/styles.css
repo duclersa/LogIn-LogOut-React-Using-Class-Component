@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 120%;
+  
+}
+body {
+background-image: url(https://images.newscientist.com/wp-content/uploads/2019/07/02111520/gettyimages-157639696.jpg?width=800)
+}
+h1 {
+color: white
+}
+
+button {
+background-color: purple;
+border-radius: 30px;
+width: 20%;
+color: white;
+border-bottom-color: purple;
+border-style: dotted 
+
+}
